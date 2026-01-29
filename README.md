@@ -29,6 +29,8 @@ My goal is to grow into a reliable front-end developer and contribute to real-wo
 A simple, SEO-oriented front-end project focused on clean structure and semantic HTML.
 
 👉 [View Repository](https://github.com/MaedehSKh80/SEO-Friendly-Editorial-Tool)
+🔗 Live Demo: https://maedehskh80.github.io/SEO-Friendly-Editorial-Tool/
+
 
 *(More projects are currently in progress and will be added soon.)*
 
