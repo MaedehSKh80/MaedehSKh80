@@ -31,6 +31,12 @@ A simple, SEO-oriented front-end project focused on clean structure and semantic
 👉 [View Repository](https://github.com/MaedehSKh80/SEO-Friendly-Editorial-Tool)
 🔗 Live Demo: https://maedehskh80.github.io/SEO-Friendly-Editorial-Tool/
 
+### 🔹 ToDo List  
+A minimal Todo List built with vanilla JavaScript, focusing on clean UI, responsive design, and intuitive user experience.
+
+👉 [View Repository](https://github.com/MaedehSKh80/TodoList)
+🔗 Live Demo: [https://maedehskh80.github.io/SEO-Friendly-Editorial-Tool/](https://maedehskh80.github.io/TodoList/)
+
 
 *(More projects are currently in progress and will be added soon.)*
 
