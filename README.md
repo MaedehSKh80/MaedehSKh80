@@ -37,6 +37,11 @@ A minimal Todo List built with vanilla JavaScript, focusing on clean UI, respons
 👉 [View Repository](https://github.com/MaedehSKh80/TodoList)
 🔗 Live Demo: [https://maedehskh80.github.io/TodoList/](https://maedehskh80.github.io/TodoList/)
 
+### 🔹 Minimal FrontEnd Website  
+A simple responsive front-end layout built with HTML, CSS, and Bootstrap, emphasizing clean design and mobile-first structure.
+👉 [View Repository](https://maedehskh80.github.io/Exercise-FrontEnd/)
+🔗 Live Demo: [https://maedehskh80.github.io/Exercise-FrontEnd/](https://maedehskh80.github.io/Exercise-FrontEnd/)
+
 
 *(More projects are currently in progress and will be added soon.)*
 
