@@ -9,8 +9,9 @@ Currently leveling up to **React ecosystem** – every week, one new feature or 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maedehskh80&show_icons=true&theme=radical&hide=stars" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maedehskh80&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maedehskh80&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maedehskh80&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maedehskh80&theme=radical" width="48%" />
 </div>
 
 ---
