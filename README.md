@@ -1,10 +1,11 @@
-# Hi, I'm Maedeh 👋  
-**Junior Front-End Developer (React-focused)**
+# 👋 Hi, I'm Maedeh
 
-I'm a junior front-end developer with a strong foundation in core web technologies and a growing focus on React.  
-Although I haven't worked in a formal professional role yet, I actively build projects, practice consistently, and use GitHub as my main learning and portfolio platform.
+<div align="center">
+  <b>Front-End Developer • React in Progress • Open for Junior Roles</b>
+</div>
 
-My goal is to grow into a reliable front-end developer and contribute to real-world products in a professional team environment.
+I build **vanilla JS projects** with clean structure and problem-solving mindset.  
+Currently leveling up to **React ecosystem** – every week, one new feature or fix on GitHub.
 
 
 <div align="center">
@@ -26,6 +27,11 @@ My goal is to grow into a reliable front-end developer and contribute to real-wo
 - React (currently learning and practicing)  
 - TypeScript (basic familiarity)  
 - REST APIs (basic usage and testing)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
