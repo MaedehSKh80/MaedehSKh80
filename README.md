@@ -38,6 +38,17 @@ Currently leveling up to **React ecosystem** – every week, one new feature or 
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  
+[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-MaedehSKH80-181717?style=for-the-badge&logo=github)](https://github.com/maedehskh80)
+[![Commits](https://img.shields.io/github/last-commit/maedehskh80/maedehskh80?style=for-the-badge&logo=git&label=Last%20Profile%20Update)](https://github.com/maedehskh80/maedehskh80/commits/main)
+  
+</div>
+
+---
+
 ## 📌 Projects
 
 ### 🔹 Simple Post Manager
