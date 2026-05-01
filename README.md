@@ -4,6 +4,8 @@
   <b>Front-End Developer • React in Progress • Open for Junior Roles</b>
 </div>
 
+
+
 I build **vanilla JS projects** with clean structure and problem-solving mindset.  
 Currently leveling up to **React ecosystem** – every week, one new feature or fix on GitHub.
 
