@@ -6,6 +6,12 @@ Although I haven't worked in a formal professional role yet, I actively build pr
 
 My goal is to grow into a reliable front-end developer and contribute to real-world products in a professional team environment.
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maedehskh80&show_icons=true&theme=radical&hide=stars" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maedehskh80&layout=compact&theme=radical" width="48%" />
+</div>
+
 ---
 
 ## 🧠 Skills & Technologies
