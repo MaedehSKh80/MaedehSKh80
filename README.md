@@ -25,27 +25,27 @@ My goal is to grow into a reliable front-end developer and contribute to real-wo
 
 ## 📌 Projects
 
-### 🔹 SEO-Friendly Website  
+### 🔹 Simple Post Manager
+A vanilla JavaScript CRUD application practicing LocalStorage API, ES6 Classes, DOM manipulation, and event delegation. Includes debugging a real whitespace-trimming issue.
+- 📂 [View Repository](https://github.com/MaedehSKh80/AddPosts)
+- 🌐 [Live Demo](https://maedehskh80.github.io/AddPosts/)
+
+### 🔹 SEO-Friendly Website
 A simple, SEO-oriented front-end project focused on clean structure and semantic HTML.
+- 📂 [View Repository](https://github.com/MaedehSKh80/SEO-Friendly-Editorial-Tool)
+- 🌐 [Live Demo](https://maedehskh80.github.io/SEO-Friendly-Editorial-Tool/)
 
-👉 [View Repository](https://github.com/MaedehSKh80/SEO-Friendly-Editorial-Tool)
-🔗 Live Demo: https://maedehskh80.github.io/SEO-Friendly-Editorial-Tool/
-
-### 🔹 ToDo List  
+### 🔹 ToDo List
 A minimal Todo List built with vanilla JavaScript, focusing on clean UI, responsive design, and intuitive user experience.
+- 📂 [View Repository](https://github.com/MaedehSKh80/TodoList)
+- 🌐 [Live Demo](https://maedehskh80.github.io/TodoList/)
 
-👉 [View Repository](https://github.com/MaedehSKh80/TodoList)
-🔗 Live Demo: [https://maedehskh80.github.io/TodoList/](https://maedehskh80.github.io/TodoList/)
-
-### 🔹 Minimal FrontEnd Website  
+### 🔹 Minimal FrontEnd Website
 A simple responsive front-end layout built with HTML, CSS, and Bootstrap, emphasizing clean design and mobile-first structure.
+- 📂 [View Repository](https://github.com/MaedehSKh80/Exercise-FrontEnd)
+- 🌐 [Live Demo](https://maedehskh80.github.io/Exercise-FrontEnd/)
 
-👉 [View Repository](https://github.com/MaedehSKh80/Exercise-FrontEnd)
-🔗 Live Demo: [https://maedehskh80.github.io/Exercise-FrontEnd/](https://maedehskh80.github.io/Exercise-FrontEnd/)
-
-
-*(More projects are currently in progress and will be added soon.)*
-
+> ✨ More projects are currently in progress and will be added soon.
 ---
 
 ## 🌱 Currently Learning
