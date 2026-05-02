@@ -4,11 +4,10 @@
   <b>Front-End Developer • React in Progress • Open for Junior Roles</b>
 </div>
 
+<br>
 
-
-I build **vanilla JS projects** with clean structure and problem-solving mindset.  
-Currently leveling up to **React ecosystem** – every week, one new feature or fix on GitHub.
-
+I build **vanilla JS projects** with a clean structure and a problem-solving mindset.  
+Currently leveling up to the **React ecosystem** – every week, one new feature or fix on GitHub.
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maedehskh80&theme=radical" width="100%" />
@@ -72,6 +71,7 @@ A simple responsive front-end layout built with HTML, CSS, and Bootstrap, emphas
 - 🌐 [Live Demo](https://maedehskh80.github.io/Exercise-FrontEnd/)
 
 > ✨ More projects are currently in progress and will be added soon.
+
 ---
 
 ## 🌱 Currently Learning
@@ -92,5 +92,5 @@ I’m especially interested in entry-level or junior opportunities where learnin
 
 ## 📫 Contact
 - **Email:** maedeh.s.khorasani@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/maedehsadatkhorasani  
-- **GitHub:** https://github.com/maedehskh80
+- **LinkedIn:** [linkedin.com/in/maedehsadatkhorasani](https://linkedin.com/in/maedehsadatkhorasani)  
+- **GitHub:** [github.com/maedehskh80](https://github.com/maedehskh80)
